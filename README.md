@@ -1,4 +1,4 @@
-# IT Magazine 01
+# IT MAG 01
 
 ## Redux
 
